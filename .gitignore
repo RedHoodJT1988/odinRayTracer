@@ -3,4 +3,5 @@
 *.bin
 *.dll
 docs/*.gif
+!docs/demo.gif
 !docs/.gitkeep
