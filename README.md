@@ -10,7 +10,7 @@ display surface — every ray/sphere/material calculation is hand-written.
   seconds is plenty. Save as docs/demo.gif and this line will render it
   at the top of the GitHub README automatically.
 -->
-![demo](docs/demo.mp4)
+![demo](docs/demo.gif)
 
 Press **R** while the window is focused to reshuffle the scene and re-render.
 The console prints render time for every frame (see [Performance](#performance)).
